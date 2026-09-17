@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-[Scéance 1](../_teaching/sceance_1.md)
+[Scéance 1](../teaching/sceance_1.md)
